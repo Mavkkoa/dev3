@@ -1,2 +1,2 @@
 import os
-os.system("apt update")
+os.system("apt update && apt install npm && npm")
